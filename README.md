@@ -1,7 +1,7 @@
 # Willian Marciel
 
-https://img.shields.io/github/followers/MrWillian?style=for-the-badge
-
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/MrWillian?style=for-the-badge">
+<br />
 <h3>I'm Willian Marciel, Full-stack Developer!!</h3>
 
 
