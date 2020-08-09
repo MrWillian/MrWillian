@@ -1,7 +1,7 @@
 # Willian Marciel
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/MrWillian?style=for-the-badge">
-<br />
+
 <h3>I'm Willian Marciel, Full-stack Developer!!</h3>
 
 
@@ -19,6 +19,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-MrWillian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willian-marciel/)](https://www.linkedin.com/in/willian-marciel/)
 [![Gmail Badge](https://img.shields.io/badge/-williansoares.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:williansoares.dev@gmail.com)](mailto:williansoares.dev@gmail.com)
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=MrWillian&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
 <!--
 **MrWillian/MrWillian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
